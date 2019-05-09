@@ -6,3 +6,5 @@ This is the parent repository for all the GEDE related activities. It contains t
 - work on citations
 - work on digital objects
 - surveys being carried out
+
+We welcome comments to all activities. 
