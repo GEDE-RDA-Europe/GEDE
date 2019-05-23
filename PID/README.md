@@ -1,1 +1,5 @@
-GEDE made a broad analysis on the usefulness and use of PIDs. This is the final report of the Topic Group.
+
+PID-assertions
+
+Platform to discuss the PID assertions document.
+GEDE made a broad analysis about the usefulness and use of PIDs. Uploaded is the final report of the Topic Group.
