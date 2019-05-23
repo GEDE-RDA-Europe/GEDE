@@ -10,4 +10,5 @@ This is the parent repository for all the GEDE related activities. It contains t
 We welcome comments to all activities. 
 
 GEDE Co-Chairs: Margarete Hellström, Carlo Maria Zwölf, Peter Wittenburg
+
 GEDE Secretary: Zsuzsanna Szeredi
