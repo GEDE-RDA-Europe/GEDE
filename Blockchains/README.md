@@ -6,13 +6,12 @@ Currently, we collected the following information which we believe is neutral an
 - a paper from P. Lyons & R. Kahn about the framework in which BC and other technologies evolved over time
 - two slide sets from V. Valivaari who is analysing the BCT for applying it in Finnish society
 - a report written by NIST which we can recommend reading to understand BCT
-- a summary of statements on BCT found in some documents collected by W. Kuchinke & P. Wittenburg
+- a summary of statements on BCT found in some documents incl. ERCIM contributions collected by W. Kuchinke & P. Wittenburg
 - a link to an ERCIM special report on BCT which we can also recommend: https://ercim-news.ercim.eu/en110/special/introduction-to-the-special-theme-blockchain-engineering
 - a first elaboration on BCT in the medical area from Kuchinke & Wittenburg
 - a slide set from P. Nikander who analysed the requirements to run a full node
 
 Author:
-Peter Wittenburg 
-May 2019
+Peter Wittenburg, May 2019
 
 	
