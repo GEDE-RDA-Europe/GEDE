@@ -5,6 +5,6 @@ This folder contains all information that has been collected as relevant for the
 - a slide set from P. Nikander who analysed the requirements to run a full node
 - a slide set from V. Valivaari who is analysing the BCT for applying it in Finnish society
 
-Author
+Author:
 Peter Wittenburg 
 May 2019
