@@ -1,6 +1,8 @@
 This folder contains all information that has been collected within the realm of the GEDE topic group as relevant for the discussion of blockchain technology (BCT) with a particular focus on possible application scenarios in the research domain. 
+
 The intention is to soon publish here a paper summarising the usefulness of BCT from a resarch perspective that will further be discussed in the RDA GEDE community and beyond. Its content might be controversial.
-Please, send us your comments and other useful documents on "BCT in the rsarch area".
+
+Please, send us your comments and other useful documents on "BCT in the resarch area".
 
 Currently, we collected the following information which we believe is neutral and factual and not written by someone who wants to sell this technology.
 - the Case Statement of the RDA WG on BCT in Health
