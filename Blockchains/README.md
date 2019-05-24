@@ -4,6 +4,7 @@ This folder contains all information that has been collected as relevant for the
 - a first elaboration on BCT in the medical area from Kuchinke & Wittenburg
 - a slide set from P. Nikander who analysed the requirements to run a full node
 - a slide set from V. Valivaari who is analysing the BCT for applying it in Finnish society
+- a paper from P. Lyons & R. Kahn about the framework in which BC and other technologies evolved over time
 
 Author:
 Peter Wittenburg 
