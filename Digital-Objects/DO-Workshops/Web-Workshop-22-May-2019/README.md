@@ -17,7 +17,8 @@ Currently the following documents have been uploaded:
 
 - the invitation not for the workshop
 - the slides by Giridhar Manepalli, Paul Trilsbeek & Peter Wittenburg, Robert Quick & Teeam
-- the chats and the recording (helas in g2m format the audio of which I can play with VLC player, need to find a converter to mp4, Github does not accept the wholee rcording, need to also see how I can make it available)
+- the chats 
+- the recording is available under http://doi.org/10.23728/b2share.4f4cb70724034da187a7b844f4a9d292 (helas in g2m format the audio of which works with the VLC player, need to find a converter to mp4)
 
 We are currently working on a discussion document (kind of summary and commentary making use of the chats and the online discussion) which wee will also make available as a Google Doc to work on. We see the urgent need to elaborate on these and other adaptation cases to make the case for DOIP.
 
