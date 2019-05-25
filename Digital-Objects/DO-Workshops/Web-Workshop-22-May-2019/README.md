@@ -6,18 +6,18 @@ Adaptation of Repositories to the Digital Object Interface Protocol
 
 with the following main queestions to be addressed:
 
-    Why should well-established repositories switch to supporting DOIP?
-    What are the challenges for adapting to DOIP?
-    How much effort does it take to adapt to DOIP?
-    Which new possibilities will be opened?
+- Why should well-established repositories switch to supporting DOIP?
+- What are the challenges for adapting to DOIP?
+- How much effort does it take to adapt to DOIP?
+- Which new possibilities will be opened?
 
 Obviously, one online workshop is not sufficient to address all issues of relevance, therefore we invite everyone interested to make comments and raise questions to continue the discussion. Also we would like to invite everyone to specify his/her specific adaptation case to be discussed in a follow up workshop and to be discussed during the Helsinki RDA plenary in October 2019.
 
 Currently the following documents have been uploaded:
 
-    the invitation not for the workshop
-    the slides by Giridhar Manepalli, Paul Trilsbeek & Peter Wittenburg, Robert Quick & Teeam
-    the chats and the recording (helas in g2m format the audio of which I can play with VLC player, need to find a converter to mp4)
+- the invitation not for the workshop
+- the slides by Giridhar Manepalli, Paul Trilsbeek & Peter Wittenburg, Robert Quick & Teeam
+- the chats and the recording (helas in g2m format the audio of which I can play with VLC player, need to find a converter to mp4, Github does not accept the wholee rcording, need to also see how I can make it available)
 
 We are currently working on a discussion document (kind of summary and commentary making use of the chats and the online discussion) which wee will also make available as a Google Doc to work on. We see the urgent need to elaborate on these and other adaptation cases to make the case for DOIP.
 
