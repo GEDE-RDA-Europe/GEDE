@@ -1,5 +1,4 @@
-
-
+# Web-Workshop on Adaptation of Repositories to DOIP
 At May 22nd, 2019 the RDA GEDE Digital Objects Topic Group organised a "Web-Workshop" on the topic
 
 Adaptation of Repositories to the Digital Object Interface Protocol
