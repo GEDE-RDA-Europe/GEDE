@@ -15,7 +15,7 @@ Obviously, one online workshop is not sufficient to address all issues of releva
 Currently the following documents have been uploaded:
 
 - the invitation not for the workshop
-- the slides by Giridhar Manepalli, Paul Trilsbeek & Peter Wittenburg, Robert Quick & Teeam
+- the slides by Giridhar Manepalli, Paul Trilsbeek & Peter Wittenburg, Robert Quick & Team
 - the chats 
 - the recording is available under http://doi.org/10.23728/b2share.4f4cb70724034da187a7b844f4a9d292 (helas in g2m format the audio of which works with the VLC player, need to find a converter to mp4)
 
