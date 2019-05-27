@@ -1,3 +1,4 @@
+# Digital Objects
 This folder covers all activities of the RDA GEDE Digital Object Topic Group which covers about 150 experts from about 50 reesearch infrastructures. It focuses on mainly organising work between Europeans, but its list also contain colleagues from other reagions. GEDE DO works closely together with a global initiative called C2CAMP which is a group of people that were and are active in the RDA Data Fabric group that want to build components of the emerging Digital Object Infrastructure. Therefore, wee will also include specific asspects from the C2CAMP initiative since the intentions are fairly much overlapping. GEDE DO and C2CAMP also have much ovrlap with the Data Fabric and a few other groups in RDA.
 
 This folder contains currently the following sub-folders:
