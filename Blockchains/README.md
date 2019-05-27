@@ -1,3 +1,4 @@
+# Blockchain Technology
 This folder contains all information that has been collected within the realm of the GEDE topic group as relevant for the discussion of blockchain technology (BCT) with a particular focus on possible application scenarios in the research domain. 
 
 The intention is to soon publish here a paper summarising the usefulness of BCT from a resarch perspective that will further be discussed in the RDA GEDE community and beyond. Its content might be controversial.
