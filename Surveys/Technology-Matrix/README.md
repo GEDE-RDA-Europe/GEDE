@@ -10,6 +10,6 @@ co-branding should occur at the Helsinki meeting.
 In case of questions, please, don't hesitate to contact Peter Wittenburg (Skype: peterwittenburg1). 
 
 If you are interested to participate in phase 2, you should have expert knowledge and be member of an ESFRI/ERIC associated with RDA GEDE.
-Pleasee check with Peter to get the access code, since in this phase we still are testing. The uploaded quick guide may give an impression 
+Please, check with Peter to get the access code, since in this phase we still are testing. The uploaded quick guide may give an impression 
 about the current state of the survey.
 
