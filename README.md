@@ -13,7 +13,7 @@ Building a Matrix about the Technologies Used by Research Infrastructures
 22nd of October 09.00- 12.30
 
 Digital Objects - From RDA Results towards Implementation
-22nd of October 13.00- 17.00 (TBC)
+22nd of October 13.00- 17.00
 
 Data Fabric IG meeting: Governance and Implementation of the Intelligent Data Fabric
 25th of October 15.45. - 17.15.
@@ -21,6 +21,6 @@ Data Fabric IG meeting: Governance and Implementation of the Intelligent Data Fa
 
 We welcome comments to all activities. 
 
-GEDE Co-Chairs: Margarete Hellström, Carlo Maria Zwölf, Peter Wittenburg
+GEDE Co-Chairs: Carlo Maria Zwölf, Peter Wittenburg
 
 GEDE Secretary: Zsuzsanna Szeredi
