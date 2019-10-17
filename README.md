@@ -7,16 +7,21 @@ This is the parent repository for all the GEDE related activities. It contains t
 - work on digital objects
 - surveys being carried out
 --------------------------------------------------------------------------------------------------
-GEDE supports three relevant meetings at the RDA Helsinki Plenary:
+GEDE supports four relevant meetings at the RDA Helsinki Plenary:
 
-Building a Matrix about the Technologies Used by Research Infrastructures
+GEDE Co-located: Building a Matrix about the Technologies Used by Research Infrastructures
 22nd of October 09.00- 12.30
 
-Digital Objects - From RDA Results towards Implementation
+GEDE Co-located: Digital Objects - From RDA Results towards Implementation
 22nd of October 13.00- 17.00
 
-Data Fabric IG meeting: Governance and Implementation of the Intelligent Data Fabric
-25th of October 15.45. - 17.15.
+Remote participation for GEDE co-located events: https://global.gotomeeting.com/join/634283165
+
+GEDE Participates: EOSC Services Collaborations and RDA 
+2st of October 12.00 - 16.00 
+RDA Plenary: Data Fabric IG meeting: Governance and Implementation of the Intelligent Data Fabric
+25th of October 15.45 - 17.15
+
 --------------------------------------------------------------------------------------------------
 
 We welcome comments to all activities. 
