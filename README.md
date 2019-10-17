@@ -19,6 +19,7 @@ Remote participation for GEDE co-located events: https://global.gotomeeting.com/
 
 GEDE Participates: EOSC Services Collaborations and RDA 
 2st of October 12.00 - 16.00 
+
 RDA Plenary: Data Fabric IG meeting: Governance and Implementation of the Intelligent Data Fabric
 25th of October 15.45 - 17.15
 
