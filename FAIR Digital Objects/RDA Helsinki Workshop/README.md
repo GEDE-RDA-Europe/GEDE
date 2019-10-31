@@ -14,7 +14,7 @@ Agenda of the meeting:
 
 14.30   Larry Lannom:        FAIR DO Components: What do we have and what is missing?
 
-15.00   Research Community Representatives about (FAIR) DO Applications: Rebecca Koskela, Rainer Stotzka, Ulrich Schwardmann
+15.00   Research Community Representatives about (FAIR) DO Applications: Rebecca Koskela, Rainer Stotzka, Ulrich Schwardmann, Alex Hardisty, Tobias Weigel
                             
 16.00   Luiz Bonino:         Draft FAIR DO Framework,Rough Convergencee, Future Plans
 
