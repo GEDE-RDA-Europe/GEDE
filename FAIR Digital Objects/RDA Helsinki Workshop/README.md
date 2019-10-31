@@ -4,7 +4,6 @@ At the RDA Plenary at 22.10 RDA GEDE held a side workshop on (FAIR) Digital Obje
 
 Agenda of the meeting:
 13.00   Larry Lannnom       Lunch, Introductions, Agenda Bashing
-
 13.30   Peter Wittenburg    Challenges for large infrastructures, such as EOSC, and th FAIR DO Approach
 
 14.00   Kostas Glinos       EOSC Developments and Expectations
