@@ -1,0 +1,15 @@
+This workshop with the title "Moving Forward on Data Infrastructure Technology Convergence" was held on 28/29. October in the famous Observatoire de Paris under the eyes of Louis XIV. We invited about 30 experts mainly from Europe and North America to this meeting with the goals 
+- to agree on a Joint Agreement on FAIR Digital Objects stating the requirements for FAIR Digital Objects and 
+- to agree on a governance structure to advance FAIR DO development. 
+
+After a welcome word from Carlo Zwölf the meeting continued with the following sessions:
+- Session 1 (Chair Carlo Zwölf): Peter Wittenburg and Luiz Bonino gave a brief overview about the steps from the Kahn papers to the contributing RDA groups and then finally to the interactions with GOFAIR to come to the FAIR Digital Object model.
+- Session 2 (Chair Francoise Genova): Community experts (Dimitris Koureas, Tobias Weigel, Koenraad de Smedt, Barend Mons, Roberto de Cosmo) presented their data related needs and related that to the FAIR DO concept. Would FDOs help to overcome current challenges and what is missing? 
+- Session 3 (Chair Bob Hanisch): Edit Herczog and Carlo Zwölf reported on requirements for FDOs from the evolving FAIR Maturity Indicators and citation aspects. Larry Lannom then summarised the requirements on FDOs so far to agree upon a FAIR DO Framework (FDOF) that would allow a variety of implementations.
+- Session 4 (Chair Erik Schultes): Christophe Blanchi, Jonathan Clark, Ray Plante and Klaas Wierenga presented their views on FDOs from a more technological perspective adding further requirements to the FDO Framework.
+- Session 5 (Chair Jean Francois Abramatic): Barend Mons, Edit Herczog, Mark Leggott, and Michel Schouppe commented on queestions related to a joint document summarising a broad agreement on FDO and FDOF and a possible governance structure to organise the emerging FDO community and drive the FDO work.
+- Session 6 (Chair George Strawn): This session was meant to comee to final conclusions and the following actions were agreed upon: (1) A joint FDO statement will be edited and used to create a community. (2) A special document will be edited that can be used to address different stakeholders such as funders, industry and research organisations. (3) A coordination group was formed that will synchronise all FDO activities and work out a light governance structure. (4) A technical group will be formed that should include all active experts and run as an RDA Interest Group. 
+
+The members of the coordination group are: Edit Herczog, Francoise Genova, Larry Lannom, George Strawn, Robert Quick, Carlo Zwölf, Peter Wittenburg. Until new structures have been defined this group will continue to run under the envelop of RDA GEDE and be supported by Zsuzsanna Szeredi (zsuzsanna.szeredi@gmail.com). 
+
+Editors: Zsuzsanna Szeredi & Peter Wittenburg
