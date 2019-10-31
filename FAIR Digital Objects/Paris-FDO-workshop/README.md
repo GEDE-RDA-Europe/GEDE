@@ -1,6 +1,6 @@
 This workshop with the title "Moving Forward on Data Infrastructure Technology Convergence" was held on 28/29. October in the famous Observatoire de Paris under the eyes of Louis XIV. We invited about 30 experts mainly from Europe and North America to this meeting with the goals 
 - to agree on a Joint Agreement on FAIR Digital Objects stating the requirements for FAIR Digital Objects and 
-- to agree on a governance structure to advance FAIR DO development. 
+- to agree on a governance structure to advance FAIR DO developments. 
 
 After a welcome word from Carlo Zwölf the meeting continued with the following sessions:
 - Session 1 (Chair Carlo Zwölf): Peter Wittenburg and Luiz Bonino gave a brief overview about the steps from the Kahn papers to the contributing RDA groups and then finally to the interactions with GOFAIR to come to the FAIR Digital Object model.
