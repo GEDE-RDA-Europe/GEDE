@@ -9,7 +9,7 @@ requirements. Also in the case of FDOs we will maintain the openness which chara
 
 Everyone interested can join the FDO interactions by sending a request to Zsuzsanna Szeredi (zsuzsanna.szeredi@gmail.com). With our 
 limited resources we will try to maintain this GitHub page timely. The coordination group may decide at a certain moment to set up an 
-own web-site at a certain moment.
+own web-site.
 
 The current members of the coordination group are: 
 Francoise Genova, Edit Herczog, Larry Lannom, George Strawn, Robert Quick, Barend Mons, Carlo Zwölf, Peter Wittenburg.
