@@ -4,6 +4,6 @@ The FDOF will be temporarely guided by the Coordination Group which needs to wor
 
 The first FDOF has been worked out by a collaboration between active experts involved in GEDE DO and GOFAIR and was presented at two consensus meetings in Washington and Paris (both in October 2019). The version 1.01 was created based on the comments during the Paris meeting. They are now open for broad discussion and comments can be made here using the Github framework. In short we will also create a Google Doc version for commenting.
 
-Th FDOF Framework will be maintained by the FDOF Coordination and Technical Implementation Groups.
+Th FDO Framework will be maintained by the FDO Coordination and Technical Implementation Groups.
 
 Zsuzsanna Szeredi, Peter Wittenburg
