@@ -12,8 +12,8 @@ limited resources we will try to maintain this GitHub page timely. The coordinat
 own web-site.
 
 The current members of the coordination group are: 
-Francoise Genova, Edit Herczog, Larry Lannom, George Strawn, Robert Quick, Barend Mons, Carlo Zwölf, Peter Wittenburg.
+Francoise Genova, Edit Herczog, Larry Lannom, George Strawn, Robert Quick, Barend Mons, Dimitris Koureas, Koenraad de Smedt, Carlo Zwölf, Peter Wittenburg.
 
-PS: Papers, Documents, etc. on DO and FDO can be found here: https://github.com/GEDE-RDA-Europe/GEDE/tree/master/Digital-Objects
+PS: Papers, Documents, etc. on DO and FDO can also be found here: https://github.com/GEDE-RDA-Europe/GEDE/tree/master/Digital-Objects
 
 Zsuzsanna Szeredi & Peter Wittenburg
