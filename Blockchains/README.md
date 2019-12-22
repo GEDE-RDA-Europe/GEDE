@@ -1,8 +1,7 @@
 # Blockchain Technology
 This folder contains all information that has been collected within the realm of the GEDE topic group as relevant for the discussion of blockchain technology (BCT) with a particular focus on possible application scenarios in the research domain. 
 
-The folder also contains the final paper summarising th usefulness of BCT from a research perspective which may be controversial since blockchain technology is still in development. The final document is called: Blockchain Technology and FAIR Digital Objects - what is needed in science?
-Please, send us your comments and other useful documents on "BCT in the resarch area".
+The folder also contains the final paper summarising the usefulness of BCT from a research perspective which may be controversial since blockchain technology is still in development. The final document is called: "Blockchain Technology and FAIR Digital Objects - what is needed in science?"
 
 Currently, we collected the following information which we believe is neutral and factual and not written by someone who wants to sell this technology.
 - the Case Statement of the RDA WG on BCT in Health
