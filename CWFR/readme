@@ -1,0 +1,24 @@
+The CWFR (Canonical Workflow Frameworks for Research) initiative is motivated by deep gaps which we found between technological 
+possibilities and principles on the one hand and data practices on the other hand. Deep insights in about 70 research projects 
+let us observe 2 major paradoxes:
+
+(1) Researchers are aware about the FAIR principles, but do not yet want to change practices in the data labs. For making data 
+FAIR they like to refer to the end phase of a data-driven project when a publication is being submitted. This will only include 
+a bvery small fraction of data which is being produced and used and making data FAIR at the very end will be costly and not work.
+
+(2) Analysing much effort in data creation, managing, and processing across disciplines one can observe recurring patterns of work 
+steps, but individual researchers believe that there work is special. Despite much effort to create technical workflow frameworks 
+during the last decades, these are hardly not used in the data labs. 
+
+G. Strawn describes this as "Standards are good for science, but not for the individual scientists". The reason is of course that 
+the individual researcher is under some stress to publish new results and does not like interruptions caused by new technological 
+inventions. They like tools which help them mastering their work in the shortest time possible.
+
+These paradoxes motivated us to start the CWFR initiative since it could address both paradoxes. Scientifically motivated workflows
+empowered by FAIR Digital Objects could help the researcher in his/her daily work, make many steps more efficient by using automated 
+workflow methods and would immediately create FAIR compliant data without bothering the researcher with details. 
+
+For more details, please, look here: https://osf.io/2cy86/
+
+Peter Wittenburg
+November 2020
