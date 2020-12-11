@@ -1,5 +1,5 @@
 The Digital Objects have been defined in early papers by R. Kahn and the work in various RDA groups, in particular in the RDA 
-Data Foundation & Terminology WG. Initiativs such as C2CAMP and GEDE have taken up the work on DOs and exchanged ideas about impleementations and plans. Intensiv discussions during the last few months including colleagues from GOFAIR resulted in the 
+Data Foundation & Terminology WG. Initiativs such as C2CAMP and GEDE have taken up the work on DOs and exchanged ideas about impleementations and plans (for activities see here: https://github.com/GEDE-RDA-Europe/GEDE/tree/master/Digital-Objects). Intensiv discussions during the last few months including colleagues from GOFAIR resulted in the 
 knowledge that the DO Model needs to be extended by explicit semantics to meet the emerging criteria of the FAIR Maturity Indicator work and to make them machine actionable.
 
 We just finished an international workshop in Paris where the participants agreed to write an FDO Document that can be signed to form a 
