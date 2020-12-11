@@ -7,6 +7,7 @@ This is the parent repository for all the GEDE related activities. It contains t
 - work on Blockchain Technology
 - work on Citations
 - work on Digital Objects and on FAIR Digital Objects
+- work on Canonical Workflow Frameworks for Research 
 - surveys being carried out
 --------------------------------------------------------------------------------------------------
 GEDE supported four relevant meetings at the RDA Helsinki Plenary and an international workshop on FAIR Digital Objects in Paris:
