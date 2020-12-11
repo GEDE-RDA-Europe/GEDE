@@ -1,5 +1,5 @@
 # GEDE
-In 2020 GEDE started a new action line with the label "Canonical Worlflow Frameworks for Research (CWFR)" started by a group of about 40 experts from different research domains. It was decided to do all documentation and interaction using the OSF framework. For more detailed information look here: https://osf.io/2cy86/ 
+In 2020 GEDE started a new action line with the label "Canonical Workflow Frameworks for Research (CWFR)" started by a group of about 40 experts from different research domains. It was decided to do all documentation and interaction using the OSF framework. For more detailed information look here: https://osf.io/2cy86/ 
 
 This is the parent repository for all the GEDE related activities. It contains the following chapters
 - work on PIDs
@@ -29,8 +29,7 @@ GEDE supported four relevant meetings at the RDA Helsinki Plenary and an interna
 
 --------------------------------------------------------------------------------------------------
 
-We welcome comments to all activities. 
+We welcome comments to all activities. We thank our former secretary Zsuzsanna Szeredi for all her support.
 
 GEDE Co-Chairs: Carlo Maria Zwölf, Peter Wittenburg
 
-GEDE Secretary: Zsuzsanna Szeredi
